@@ -39,4 +39,4 @@
 
 По ссылке ниже можно попробовать игру в браузере, через эмулятор js-dos
 
-[Играть](https://andrey-andrianov.github.io/sites/jsdos/box.html)
+[Играть](https://andrey-andrianov.github.io/sites/jsdos/box2.html)
