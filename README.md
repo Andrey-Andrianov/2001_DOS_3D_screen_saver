@@ -11,7 +11,7 @@ There are some screenshots:
 
 # Table of contents
 - [Installation](#Installation)
-- [Control] (#Control)
+- [Control](#Control)
 - [Play in browser](#Play-in-browser)
 
 # Installation
