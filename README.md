@@ -27,11 +27,11 @@ To compile from sources (code folder), you must use the Borland Pascal 7.0 compi
 Key list:
 
 1. Insert  - Select
-2. Home  - Remove fire below
-3. Page Up - Remove Blur Effect
-4. Plus - Enlarge Cube
-5. Minus - Reduce Cube
-6. Cursor - Move
+2. Home  - Remove fire in the bottom
+3. Page Up - Remove blur Effect
+4. Plus - Enlarge cube size
+5. Minus - Reduce cube size
+6. Cursor - Move cube
 
 To exit, press 'Esc' and enter your password. By default, the password is empty. You can set a password by running PASSWORD.EXE. The password is stored in encrypted form in the PAROL.DAT file.
 
